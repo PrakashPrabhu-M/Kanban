@@ -1,0 +1,8 @@
+.card-section{
+    /* margin-top: 5vh; */
+    display: grid;
+    grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
+    justify-content: space-evenly;
+    row-gap: 5vh;
+    background-color: #FFF6EA;
+}

@@ -1,0 +1,19 @@
+.header{
+    background-color: #FDD7AA;
+}
+
+.head-title, .header-items{
+    color: #00092C;
+}
+
+.head-title{
+    margin: 0;
+    position: absolute;
+}
+
+.header-items{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    margin: 0;
+}

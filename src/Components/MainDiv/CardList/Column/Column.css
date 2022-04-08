@@ -1,0 +1,23 @@
+.column-heading{
+    text-align: center;
+    margin: 1rem;
+}
+
+.column{
+    width: 15vw;
+}
+
+.draggable-div{
+    display: flex;
+    flex-direction: column;
+    border-top: 4px solid #FFA8A8;
+}
+
+ul.lists{
+    list-style: none;
+    padding: 0;
+}
+
+ul.lists li{
+    margin: 1rem;
+}
